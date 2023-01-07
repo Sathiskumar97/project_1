@@ -1,6 +1,6 @@
 print ("hello world")
 print ("hi git")
-a=10
+a=200
 b=5
 c=15
 print (a+b+c)
